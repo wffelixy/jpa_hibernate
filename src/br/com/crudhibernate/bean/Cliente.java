@@ -1,4 +1,4 @@
-package br.com.crudhibernate;
+package br.com.crudhibernate.bean;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

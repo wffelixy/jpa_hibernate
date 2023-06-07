@@ -1,4 +1,4 @@
-package br.com.crudhibernate;
+package br.com.crudhibernate.view;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -7,7 +7,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import br.com.crudhibernate.bean.ClienteJpaDAO;
+import br.com.crudhibernate.bean.Cliente;
+import br.com.crudhibernate.dao.ClienteJpaDAO;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;

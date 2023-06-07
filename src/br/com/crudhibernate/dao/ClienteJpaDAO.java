@@ -1,4 +1,4 @@
-package br.com.crudhibernate.bean;
+package br.com.crudhibernate.dao;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import br.com.crudhibernate.Cliente;
+import br.com.crudhibernate.bean.Cliente;
 
 public class ClienteJpaDAO {
 
